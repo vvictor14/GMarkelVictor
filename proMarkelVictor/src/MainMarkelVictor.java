@@ -13,5 +13,6 @@ public class MainMarkelVictor {
         System.out.println("Segundo Cambio");
         System.out.println("Tercer Cambio");
         System.out.println("Casa");
+        System.out.println("Cambio pauta 24");
     }
 }
